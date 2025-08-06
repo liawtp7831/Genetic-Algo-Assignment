@@ -1,4 +1,4 @@
-#Genetic Algorithm for Solving the Traveling Salesman Problem (TSP)
+# Genetic Algorithm for Solving the Traveling Salesman Problem (TSP)
 
 This project implements a **Genetic Algorithm (GA)** to solve the **Traveling Salesman Problem (TSP)** for a large number of cities (e.g., 400). It includes parameter optimization and performance benchmarking to find the best route with the shortest possible distance.
 
