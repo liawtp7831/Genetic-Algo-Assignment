@@ -1,7 +1,4 @@
-# Genetic-Algo-Assignment
-Solves the Traveling Salesman Problem (TSP) using a Genetic Algorithm with support for elite selection, mutation tuning, and population size variation. Includes performance benchmarking and visual analysis for 400+ cities.
-
-🧬 Genetic Algorithm for Solving the Traveling Salesman Problem (TSP)
+#🧬 Genetic Algorithm for Solving the Traveling Salesman Problem (TSP)
 
 This project implements a **Genetic Algorithm (GA)** to solve the **Traveling Salesman Problem (TSP)** for a large number of cities (e.g., 400). It includes parameter optimization and performance benchmarking to find the best route with the shortest possible distance.
 
